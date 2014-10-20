@@ -1,0 +1,24 @@
+[submodule "gochiMain"]
+	path = gochiMain
+	url = https://github.com/TUTProCon2014/gochiMain.git
+[submodule "modify_guess_image"]
+	path = modify_guess_image
+	url = https://github.com/TUTProCon2014/modify_guess_image.git
+[submodule "guess_img"]
+	path = guess_img
+	url = https://github.com/TUTProCon2014/guess_img.git
+[submodule "createPpm"]
+	path = createPpm
+	url = https://github.com/TUTProCon2014/createPpm.git
+[submodule "calc_exchange"]
+	path = calc_exchange
+	url = https://github.com/TUTProCon2014/calc_exchange.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/TUTProCon2014/utils.git
+[submodule "inout"]
+	path = inout
+	url = https://github.com/TUTProCon2014/inout.git
+[submodule "vs2013"]
+	path = vs2013
+	url = https://github.com/TUTProCon2014/vs2013.git
